@@ -1,3 +1,0 @@
-# teamo
-
-teamo
